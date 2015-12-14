@@ -194,8 +194,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/lettuce/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     vendor/yu/lettuce/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
     vendor/yu/lettuce/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
-    vendor/yu/lettuce/proprietary/lib/libstlport.so:system/lib/libstlport.so \
-    vendor/yu/lettuce/proprietary/lib64/libstlport.so:system/lib64/libstlport.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
